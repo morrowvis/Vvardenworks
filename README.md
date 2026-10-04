@@ -1,0 +1,1 @@
+Like Navisworks for Morrowind, this enables review of a federated model that is data rich and accessible. Exports were compared directly to exports from MWSE to ensure near 1:1 accuracy in terms of scene graph representation. It is also a mini port of Morrowind inside Rust with its own playable, seamless sandbox.
